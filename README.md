@@ -8,10 +8,9 @@ We use a phrase-based topic model approach ([topmine](https://github.com/anirudy
 
 ## Related Publications
 
-### Publication 
-Li H, Armiento R, Lambrix P, "A Method for Extending Ontologies with Application to the Materials Science Domain", Data Science Journal, 18(1):Article 50, 2019. [published version](https://datascience.codata.org/articles/10.5334/dsj-2019-050/)
+* Li H, Armiento R, Lambrix P, "A Method for Extending Ontologies with Application to the Materials Science Domain", Data Science Journal, 18(1):Article 50, 2019. [published version](https://datascience.codata.org/articles/10.5334/dsj-2019-050/)
 
-Abd Nikooie Pour M, Li H, Armiento R, Lambrix P, A First Step towards Extending the Materials Design Ontology, ESWC Workshop on Domain Ontologies for Research Data Management in Industry Commons of Materials and Manufacturing - DORIC-MM 2021, 2021. [openreview](https://openreview.net/pdf?id=v02wuy8Q89A)
+* Abd Nikooie Pour M, Li H, Armiento R, Lambrix P, A First Step towards Extending the Materials Design Ontology, ESWC Workshop on Domain Ontologies for Research Data Management in Industry Commons of Materials and Manufacturing - DORIC-MM 2021, 2021. [openreview](https://openreview.net/pdf?id=v02wuy8Q89A)
 
 ### Talk
 
