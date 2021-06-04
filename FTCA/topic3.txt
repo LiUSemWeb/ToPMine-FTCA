@@ -1,0 +1,3 @@
+pore size 25
+low pressure 12
+sol gel 10

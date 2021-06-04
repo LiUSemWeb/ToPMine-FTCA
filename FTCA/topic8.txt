@@ -1,0 +1,14 @@
+particle size 68
+metal oxide 19
+gold nanoparticle 19
+aspect ratio 15
+average particle size 15
+this study 14
+gold nanorod 13
+metallic nanoparticle 11
+silver nanoparticle 10
+copper nanoparticle 10
+size distribution 9
+this work 6
+this paper 5
+iron oxide 3

@@ -1,0 +1,8 @@
+quantum dot 66
+core shell 22
+semiconductor nanocrystal 16
+quantum confinement 15
+optical property 10
+cdte nanoparticle 10
+cdse nanocrystal 10
+semiconductor quantum 2

@@ -1,0 +1,4 @@
+surface area 38
+fuel cell 18
+solar cell 13
+aqueous solution 4

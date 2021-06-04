@@ -1,0 +1,3 @@
+block copolymer 21
+build block 10
+organic inorganic 9

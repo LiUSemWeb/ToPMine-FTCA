@@ -1,0 +1,11 @@
+nm diameter 25
+xray diffraction 19
+single crystal 15
+6 nm 13
+8 nm 12
+diameter range 11
+10 nm 11
+wide range 9
+small angle 9
+result show 4
+single crystalline 4

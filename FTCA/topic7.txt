@@ -1,0 +1,7 @@
+high temperature 28
+room temperature 27
+low temperature 22
+high quality 17
+high purity 10
+iron oxide 7
+high resolution 2

@@ -1,0 +1,11 @@
+electrical conductivity 18
+thermal conductivity 16
+electronic device 13
+potential application 11
+this work 10
+this article 10
+this paper 5
+optical property 5
+electronic structure 5
+mechanical property 4
+wide range 1

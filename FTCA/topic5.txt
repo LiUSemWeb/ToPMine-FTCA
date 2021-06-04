@@ -1,0 +1,7 @@
+zno nanowire 12
+length scale 11
+single crystal 11
+liquid solid 10
+single crystalline 9
+nanowire diameter 8
+individual single 2

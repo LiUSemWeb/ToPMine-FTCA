@@ -1,0 +1,170 @@
+0
+electron hole
+electron transfer
+single electron
+low temperature
+room temperature
+electronic structure
+charge transfer
+temperature dependence
+density state
+single molecule
+tunnel spectroscopy
+small angle
+individual single
+1
+reverse micelle
+aqueous solution
+water soluble
+organic inorganic
+2
+band gap
+raman scatter
+raman spectroscopy
+surface plasmon
+pump power
+optical property
+laser pulse
+pulse laser
+3
+pore size
+low pressure
+sol gel
+4
+magnetic field
+order magnitude
+solid state
+experimental result
+field effect transistor
+cross section
+ground state
+result show
+density state
+transition metal
+liquid solid
+field effect
+5
+zno nanowire
+length scale
+single crystal
+liquid solid
+single crystalline
+nanowire diameter
+individual single
+6
+electrical conductivity
+thermal conductivity
+electronic device
+potential application
+this work
+this article
+this paper
+optical property
+electronic structure
+mechanical property
+wide range
+7
+high temperature
+room temperature
+low temperature
+high quality
+high purity
+iron oxide
+high resolution
+8
+particle size
+metal oxide
+gold nanoparticle
+aspect ratio
+average particle size
+this study
+gold nanorod
+metallic nanoparticle
+silver nanoparticle
+copper nanoparticle
+size distribution
+this work
+this paper
+iron oxide
+9
+quantum dot
+core shell
+semiconductor nanocrystal
+quantum confinement
+optical property
+cdte nanoparticle
+cdse nanocrystal
+semiconductor quantum
+10
+carbon nanotube
+single wall carbon nanotube
+individual single wall carbon nanotube
+single wall
+wall carbon nanotube
+multiwall carbon nanotube
+multiwalle carbon nanotube
+single molecule
+nanotube array
+multi wall
+individual single wall
+individual single wall carbon
+individual single
+11
+transmission electron microscopy
+atomic force microscopy
+scan tunnel
+high resolution transmission electron microscopy
+scan electron microscopy
+barium titanate
+electron microscopy
+high resolution
+scan probe
+force microscopy
+atomic force
+transmission electron
+scan electron
+high resolution transmission electron
+12
+mechanical property
+melt spin
+13
+block copolymer
+build block
+organic inorganic
+14
+thin film
+layer layer
+silicon thin film
+15
+nm diameter
+xray diffraction
+single crystal
+6 nm
+8 nm
+diameter range
+10 nm
+wide range
+small angle
+result show
+single crystalline
+16
+mesoporous silica
+mesoporous silica nanosphere
+mcm 41
+single molecule
+17
+surface area
+fuel cell
+solar cell
+aqueous solution
+18
+chemical vapor deposition
+growth mechanism
+vapor deposition
+19
+pulse laser
+microcrystalline silicon
+polymorphous silicon
+laser pulse
+porous silicon
+amorphous silicon

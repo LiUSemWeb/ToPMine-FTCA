@@ -1,0 +1,8 @@
+band gap 23
+raman scatter 20
+raman spectroscopy 20
+surface plasmon 12
+pump power 10
+optical property 9
+laser pulse 4
+pulse laser 2

@@ -1,0 +1,4 @@
+reverse micelle 20
+aqueous solution 13
+water soluble 11
+organic inorganic 1
