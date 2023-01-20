@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Li"
+  given-names: "Huanyu"
+  orcid: "https://orcid.org/0000-0003-1881-3969"
+- family-names: "Armiento"
+  given-names: "Rickard"
+  orcid: "https://orcid.org/0000-0002-5571-0814"
+- family-names: "Lambrix"
+  given-names: "Patrick"
+  orcid: "https://orcid.org/0000-0002-9084-0470"
+title: "TopMine-FTCA"
+url: "https://github.com/LiUSemWeb/ToPMine-FTCA"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Li"
+    given-names: "Huanyu"
+    orcid: "https://orcid.org/0000-0003-1881-3969"
+  - family-names: "Armiento"
+    given-names: "Rickard"
+    orcid: "https://orcid.org/0000-0002-5571-0814"
+  - family-names: "Lambrix"
+    given-names: "Patrick"
+    orcid: "https://orcid.org/0000-0002-9084-0470"
+  doi: "10.5334/dsj-2019-050"
+  journal: Data Science Journal
+  title: "A Method for Extending Ontologies with Application to the Materials Science Domain"
+  volume: 18
+  issue: 1
+  year: 2019
